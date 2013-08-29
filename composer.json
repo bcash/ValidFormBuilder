@@ -1,0 +1,30 @@
+{
+    "name": "ValidFormBuilder",
+    "description": "ValidFormBuilder Package for composer",
+    "homepage": "http://ValidFormBuilder.org",
+    "support": {
+        "email": "robin@neverwoods.com"
+    },
+    "keywords": [
+        "ValidFormBuilder",
+        "ValidForm",
+        "form",
+        "build",
+	"generate",
+	"php",
+	"javascript",
+	"jquery",
+	"css",
+	"validation"
+    ],
+    "license": "GNU GPL v2",
+    "authors": [
+        {
+            "name": "Robin Van Baalan",
+            "email": "robin@neverwoods.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0"
+    }
+}
